@@ -23,3 +23,9 @@ Q5 - Searching for food in the all of the corners with BFS<br>
 Q6 Searching for food in the all of the corners with AStar<br>
 ![cornerFood](https://user-images.githubusercontent.com/98131995/212568206-88be6363-fab4-47f4-a569-a08c9f128d10.gif)<br>
 ![NodesExpanded-AStar](https://user-images.githubusercontent.com/98131995/212568609-9b2c4de7-5b6b-442e-8311-cdd2ffe79c0b.png)<br><br>
+
+Q7 - Eat all food in the map with the most efficient path<br>
+![EatAllFood](https://user-images.githubusercontent.com/98131995/212568833-d01f8889-68cb-4085-812e-9d4b7e45d52f.gif)<br><br>
+
+Q8 - Suboptimal Search<br>
+![SuboptimalSearch](https://user-images.githubusercontent.com/98131995/212569035-c50a9a36-ef7c-4e93-8cc9-717e68e8e5d3.gif)
