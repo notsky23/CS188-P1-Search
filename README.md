@@ -15,3 +15,6 @@ Q3 - UCS<br>
 
 Q4 - A*<br>
 ![AStar](https://user-images.githubusercontent.com/98131995/212567940-c7ddd1c6-8f23-4633-88f8-7f79dda7f023.gif)<br><br>
+
+Q5 - Searching for food in the all of the corners<br>
+![cornerFood](https://user-images.githubusercontent.com/98131995/212568206-88be6363-fab4-47f4-a569-a08c9f128d10.gif)<br><br>
