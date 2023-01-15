@@ -1,4 +1,4 @@
-# CS188-P1-Search.py
+# CS188-P1-Search
 
 Project from UC Berkeley that introduces AI agents to control Pac-Man<br><br>
 
