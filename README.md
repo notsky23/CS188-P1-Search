@@ -1,6 +1,8 @@
 # CS188-P1-Search
 
-Project from UC Berkeley that introduces AI agents to control Pac-Man<br><br>
+Disclaimer: This is my attempt at the CS188 coursework 1 from the University of California, Berkeley.<br>
+
+Project Site: https://inst.eecs.berkeley.edu/~cs188/sp22/projects/.<br><br>
 
 ## Results:<br>
 
