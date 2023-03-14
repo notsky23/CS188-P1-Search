@@ -12,7 +12,7 @@ In this project, we will create a PacMan AI agent that uses search techniques an
 
 ## Results:<br>
 
-You can read more about this module and deliverables at this site https://inst.eecs.berkeley.edu/~cs188/sp22/project1/<br>
+You can read more about this module and deliverables at this site: https://inst.eecs.berkeley.edu/~cs188/sp22/project1/<br>
 
 Here are the results I got for each deliverables.<br>
 
