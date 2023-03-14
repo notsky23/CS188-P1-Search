@@ -16,6 +16,8 @@ You can read more about this module and deliverables at this site https://inst.e
 
 Here are the results I got for each deliverables.<br>
 
+The code is included in this repo.<br><br>
+
 Q1 - DFS<br>
 ![DFS](https://user-images.githubusercontent.com/98131995/212566018-6a9ae742-bb62-4cea-b769-f6ca63020974.gif)<br><br>
 
