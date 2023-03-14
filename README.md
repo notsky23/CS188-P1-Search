@@ -4,6 +4,12 @@ Disclaimer: This is my attempt at the CS188 coursework 1 from the University of 
 
 Project Site: https://inst.eecs.berkeley.edu/~cs188/sp22/projects/.<br><br>
 
+## What is this project about?<br>
+
+This project is a practice with different search techniques.<br>
+
+In this project, we will create a PacMan AI agent that uses search techniques and algorithms to move PacMan from a start position to a goal position or series of goal positions.<br>
+
 ## Results:<br>
 
 Q1 - DFS<br>
