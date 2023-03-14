@@ -8,7 +8,7 @@ Project Site: https://inst.eecs.berkeley.edu/~cs188/sp22/projects/.<br><br>
 
 This project is a practice with different search techniques.<br>
 
-In this project, we will create a PacMan AI agent that uses search techniques and algorithms to move PacMan from a start position to a goal position or series of goal positions.<br><br>
+In this project, we will create a PacMan AI agent that uses search techniques and algorithms to move PacMan from a start position to a goal position, or series of goal positions.<br><br>
 
 ## Results:<br>
 
