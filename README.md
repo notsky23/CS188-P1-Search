@@ -12,6 +12,10 @@ In this project, we will create a PacMan AI agent that uses search techniques an
 
 ## Results:<br>
 
+You can read more about this module and deliverables at this site https://inst.eecs.berkeley.edu/~cs188/sp22/project1/<br>
+
+Here are the results I got for each deliverables.<br>
+
 Q1 - DFS<br>
 ![DFS](https://user-images.githubusercontent.com/98131995/212566018-6a9ae742-bb62-4cea-b769-f6ca63020974.gif)<br><br>
 
