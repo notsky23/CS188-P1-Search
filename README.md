@@ -25,6 +25,7 @@ The code is included in this repo.<br><br>
 
 ### Q2 - BFS<br>
 ![image](https://user-images.githubusercontent.com/98131995/225202275-b0a97ba4-5c14-431e-9ce5-c1fba1378d27.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225203111-1a117689-3b28-4ef7-9ab0-5abc11bcc5f3.png)<br><br>
 ![BFS](https://user-images.githubusercontent.com/98131995/212566590-96595154-249c-4116-b3cd-927ed9fe6cbe.gif)<br><br>
 
 ### Q3 - UCS<br>
