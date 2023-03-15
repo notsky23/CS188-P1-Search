@@ -29,6 +29,8 @@ The code is included in this repo.<br><br>
 ![BFS](https://user-images.githubusercontent.com/98131995/212566590-96595154-249c-4116-b3cd-927ed9fe6cbe.gif)<br><br>
 
 ### Q3 - UCS<br>
+![image](https://user-images.githubusercontent.com/98131995/225203232-872d75c4-3176-4d42-8949-705384f5b2f5.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225203314-5e4f9671-1b8a-4b11-93aa-6ed0ba1e6256.png)<br><br>
 ![UCS](https://user-images.githubusercontent.com/98131995/212567774-7b163a05-03a3-4c51-b773-3432beffdeae.gif)<br><br>
 
 ### Q4 - A*<br>
