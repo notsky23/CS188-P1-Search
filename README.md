@@ -19,12 +19,12 @@ Here are the results I got for each deliverables.<br>
 The code is included in this repo.<br><br>
 
 ### Q1 - DFS<br>
-![DFS](https://user-images.githubusercontent.com/98131995/212566018-6a9ae742-bb62-4cea-b769-f6ca63020974.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225202474-59b4936d-4e99-42de-a455-79b502bad72f.png)<br><br>
+![DFS](https://user-images.githubusercontent.com/98131995/212566018-6a9ae742-bb62-4cea-b769-f6ca63020974.gif)<br><br>
 
 ### Q2 - BFS<br>
-![BFS](https://user-images.githubusercontent.com/98131995/212566590-96595154-249c-4116-b3cd-927ed9fe6cbe.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225202275-b0a97ba4-5c14-431e-9ce5-c1fba1378d27.png)<br><br>
+![BFS](https://user-images.githubusercontent.com/98131995/212566590-96595154-249c-4116-b3cd-927ed9fe6cbe.gif)<br><br>
 
 ### Q3 - UCS<br>
 ![UCS](https://user-images.githubusercontent.com/98131995/212567774-7b163a05-03a3-4c51-b773-3432beffdeae.gif)<br><br>
