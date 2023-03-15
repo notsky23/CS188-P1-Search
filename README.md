@@ -34,7 +34,12 @@ The code is included in this repo.<br><br>
 ![UCS](https://user-images.githubusercontent.com/98131995/212567774-7b163a05-03a3-4c51-b773-3432beffdeae.gif)<br><br>
 
 ### Q4 - A*<br>
+![image](https://user-images.githubusercontent.com/98131995/225203495-fba8e8f1-66ba-47fc-ba55-9457fee86362.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225203811-3ba5f473-2e45-4113-9740-516f64b0dd32.png)<br><br>
 ![AStar](https://user-images.githubusercontent.com/98131995/212567940-c7ddd1c6-8f23-4633-88f8-7f79dda7f023.gif)<br><br>
+
+### Greedy vs A* vs UCS<br>
+![image](https://user-images.githubusercontent.com/98131995/225203708-eefebab4-b24b-4d72-a6fe-b1060126f775.png)<br><br>
 
 ### Q5 - Searching for food in the all of the corners with BFS<br>
 ![cornerFood](https://user-images.githubusercontent.com/98131995/212568206-88be6363-fab4-47f4-a569-a08c9f128d10.gif)<br>
