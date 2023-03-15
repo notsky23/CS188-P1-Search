@@ -20,8 +20,8 @@ The code is included in this repo.<br><br>
 
 ### Q1 - DFS<br>
 ![image](https://user-images.githubusercontent.com/98131995/225202474-59b4936d-4e99-42de-a455-79b502bad72f.png)<br><br>
-![DFS](https://user-images.githubusercontent.com/98131995/212566018-6a9ae742-bb62-4cea-b769-f6ca63020974.gif) ![image](https://user-images.githubusercontent.com/98131995/225202802-9d293084-d4ea-43b0-a920-6686f6eb16ea.png)
-<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225202802-9d293084-d4ea-43b0-a920-6686f6eb16ea.png)<br><br>
+![DFS](https://user-images.githubusercontent.com/98131995/212566018-6a9ae742-bb62-4cea-b769-f6ca63020974.gif)<br><br>
 
 ### Q2 - BFS<br>
 ![image](https://user-images.githubusercontent.com/98131995/225202275-b0a97ba4-5c14-431e-9ce5-c1fba1378d27.png)<br><br>
