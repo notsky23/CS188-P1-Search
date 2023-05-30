@@ -41,7 +41,7 @@ The code is included in this repo.<br><br>
 ### Greedy vs A* vs UCS<br>
 ![image](https://user-images.githubusercontent.com/98131995/225203708-eefebab4-b24b-4d72-a6fe-b1060126f775.png)<br><br>
 
-### Q5 - Searching for food in the all of the corners with BFS<br>
+### Q5 - Searching for food in all of the corners with BFS<br>
 ![cornerFood](https://user-images.githubusercontent.com/98131995/212568206-88be6363-fab4-47f4-a569-a08c9f128d10.gif)<br>
 ![NodesExpanded-BFS](https://user-images.githubusercontent.com/98131995/212568569-4ffcd51e-f05c-4a16-a280-0d08e957747a.png)<br><br>
 
